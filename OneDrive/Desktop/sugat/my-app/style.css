@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  padding: 100px;
+  color: black;
+  border: 3px solid red;
+}
+.circle-image {
+  background-color: black;
+  height: 140px;
+  width: 130px;
+  border-radius: 100%;
+  margin: auto;
+  padding: 10px;
+  border: 3px solid white;
+  transition: is ease;
+}
+.circle-image:hover {
+ background-color: crimson;
+ padding: 40px;
+ border-radius: 10px;
+ rotate: 360deg;
+}
+
+
+
+
+
