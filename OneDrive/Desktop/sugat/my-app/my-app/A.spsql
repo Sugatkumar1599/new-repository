@@ -1,0 +1,3 @@
+create table Customer(CustomerID NUMBER ,CustomerName Varchar2(50) ,LastName Varchar2(50),
+Email Varchar2(100), ContactNumber Varchar2(20))
+DESC Customer;
